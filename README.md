@@ -27,6 +27,9 @@ This project is a personal blog built with React, focusing on component modulari
   - `ArticleList`
     - `Article`
 
+## Visual Preview
+![Personal Blog Site](file:///C:/Users/alvod/.gemini/antigravity/brain/4d1a046d-0bcf-4323-a88c-b708dbbec376/blog_site_screenshot_1768587483811.png)
+
 ## Features
 - Dynamic rendering of blog posts.
 - Responsive design.
