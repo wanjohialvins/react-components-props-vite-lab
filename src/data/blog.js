@@ -1,29 +1,30 @@
 import logo from "../assets/logo";
 
 const blogData = {
-  name: "Underreacted",
+  name: "Eragondevs",
   image: logo,
-  about: "A blog about learning React",
+  about: "Exploring the intersections of code, creativity, and the developer's journey. Join me as I document my path through the world of software engineering.",
   posts: [
     {
       id: 1,
-      title: "Components 101",
-      date: "December 15, 2020",
-      preview: "Setting up the building blocks of your site",
-      minutes: 5,
+      title: "The Joy of Component Architecture",
+      date: "January 15, 2023",
+      preview: "Why modularity is the secret sauce to scalable and maintainable React applications.",
+      minutes: 8,
     },
     {
       id: 2,
-      title: "React Data Flow",
-      date: "December 11, 2020",
-      preview: "Passing props is never passé",
-      minutes: 15,
+      title: "Mastering Props and Data Flow",
+      date: "August 10, 2024",
+      preview: "A deep dive into how data travels between components and why it's the heartbeat of every great UI.",
+      minutes: 12,
     },
     {
       id: 3,
-      title: "Function vs Class Components",
-      preview: "React, meet OOJS.",
-      minutes: 47,
+      title: "Reflecting on my First Dev Internship",
+      date: "January 1, 2025",
+      preview: "The lessons I learned, the bugs I squashed, and the coffee I drank during my first three months in the field.",
+      minutes: 20,
     },
   ],
 };
