@@ -1,12 +1,36 @@
-# Putting it All Together: Components and Props
-
-## Learning Goals
-
-- Create components that return JSX
-- Use props to make components dynamic
-- Transform lists of data into lists of components
+# React Components and Props Lab
 
 ## Overview
+This project is a personal blog built with React, focusing on component modularity and data flow via props.
+
+## How to Run the Project
+
+1. **Install Dependencies**:
+   ```bash
+   npm install
+   ```
+
+2. **Start Development Server**:
+   ```bash
+   npm run dev
+   ```
+
+3. **Run Tests**:
+   ```bash
+   npm test
+   ```
+
+## Component Tree
+- `App`
+  - `Header`
+  - `About`
+  - `ArticleList`
+    - `Article`
+
+## Features
+- Dynamic rendering of blog posts.
+- Responsive design.
+- Comprehensive test suite to ensure rendering correctness.
 
 Now that you've learned how to work with components in React, it's time to build
 something and put those skills to use! Your goal for this lab is to make a
